@@ -56,84 +56,84 @@
     <TIER ANNOTATOR="euv@" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="aaa@" TIER_ID="aaa@_speech">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>Нет,я..  у меня в левом верхнем углу шторы, логично, что у тебя должны быть симметрично в правом</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Нет,я.. у меня' в ле'вом ве'рхнем углу' што'ры, логи'чно, что у тебя' должны' быть симметри'чно в пра'вом</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>Да, есть ангелочки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Да, есть ангело'чки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>Вот, видимо, фигура в непонятной драпировке - это моя картина с ангелочками</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Вот, ви'димо, фигу'ра в непоня'тной драпиро'вке - э'то моя' карти'на с ангело'чками</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>потому что тут девушка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>потому' что тут де'вушка/ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>на которой очень много одежды</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>на кото'рой о'чень мно'го оде'жды</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
-                <ANNOTATION_VALUE>Да, замечательно, вот, осталась у меня последняя картина, это именно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Да, замеча'тельно, вот, оста'лась у меня' после'дняя карти'на, э'то и'менно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
-                <ANNOTATION_VALUE>Нет, это портрет девушки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Нет, э'то портре'т де'вушки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
-                <ANNOTATION_VALUE>Это пор... половина лица девушки</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Э'то пор... полови'на лица' де'вушки</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>Хорошо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Хорошо'</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>Тут какой-то однотонный фон</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Тут како'й-то одното'нный фон</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>а-а плечо девушки, понятно, что это девушка, потому что.. ну, по фигуре понятно</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>а-а плечо' де'вушки, поня'тно, что э'то де'вушка, потому' что.. ну, по фигу'ре поня'тно</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Она в блузке в какой-то светлой</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Она' в блу'зке в како'й-то све'тлой</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>И-и... красивая сережка</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>И-и... краси'вая сере'жка</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>Волосы.. собраны в пучок</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Во'лосы.. со'браны в пучо'к</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>Не знаю, как еще это описать, у меня нет лица, у меня только ухо</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Не зна'ю, как еще' э'то описа'ть, у меня' нет лица', у меня' то'лько у'хо</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="euv@" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="euv@" TIER_ID="euv@_speech">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
-                <ANNOTATION_VALUE>Хорошо, а есть дети какие-нибудь?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Хорошо', а есть де'ти каки'е-нибудь?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -148,27 +148,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>У меня есть еще один.. одна девушка, и одна разрезанная непонятная фигура в какой-то драпировке </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>У меня' есть еще' оди'н.. одна' де'вушка, и одна' разре'занная непоня'тная фигу'ра в како'й-то драпиро'вке </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>Хорошо, тогда [нрзб]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Хорошо', тогда' [нрзб]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts24">
-                <ANNOTATION_VALUE>И это озеро!</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>И э'то о'зеро!</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>мм.. можете описать поподробнее?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>мм.. мо'жете описа'ть поподро'бнее?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
-                <ANNOTATION_VALUE>У меня что-то совершенно другое</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>У меня' что'-то соверше'нно друго'е</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
