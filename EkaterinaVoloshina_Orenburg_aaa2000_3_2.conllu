@@ -1,0 +1,326 @@
+# time_begin = 03:58
+
+aaa@
+
+# sent_id = 3
+# text = Нет, я..
+1	Нет	нет	PART	_	_	3	parataxis	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=\n\n
+
+aaa@
+
+# sent_id = 5
+# text = у меня в левом верхнем углу шторы, логично, что у тебя должны быть симметрично в правом
+1	у	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	в	в	ADP	_	_	_	_	_	_
+4	левом	левый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+5	верхнем	верхний	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+6	углу	угол	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+7	шторы	штора	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	логично	логично  ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	что	что	SCONJ	_	_	_	_	_	_
+12	у	у	ADP	_	_	_	_	_	_
+13	тебя	ты	PRON	_	Case=Gen|Number=Sing|Person=2	_	_	_	_
+14	должны	должен	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	_	_	_	_
+15	быть	быть	AUX	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+16	симметрично	симметрично	ADV	_	Degree=Pos	_	_	_	_
+17	в	в	ADP	_	_	_	_	_	_
+18	правом	правый	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 7
+# text = Хорошо, а есть дети какие-нибудь
+1	Хорошо	хорошо ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	а	а	CCONJ	_	_	_	_	_	_
+4	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+5	дети	ребенок	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+6	какие-нибудь	какой-нибудь	DET	_	Case=Nom|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 9
+# text = Да, есть ангелочки
+1	Да	да	PART	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	ангелочки	ангелочек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 11
+# text = А-а.
+1	А-а	А-а	INTJ	_   _ 	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 13
+# text = А!
+1	А	а	INTJ	_	_	_	_	_	SpaceAfter=No
+2	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 15
+# text = У меня есть еще один..
+1	У	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+5	один	один	NUM	_	Case=Nom|Gender=Masc	_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 17
+# text = одна девушка, и одна разрезанная непонятная фигура в какой-то драпировке
+1	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+2	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	одна	один	NUM	_	Case=Nom|Gender=Fem	_	_	_	_
+6	разрезанная	разрезать	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+7	непонятная	непонятный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+8	фигура	фигура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	какой-то	какой-то	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+11	драпировке	драпировка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 19
+# text = Вот, видимо, фигура в непонятной драпировке - это моя картина с ангелочками, потому что тут девушка на которой очень много одежды
+1	Вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	видимо	видимо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	фигура	фигура	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	в	в	ADP	_	_	_	_	_	_
+7	непонятной	непонятный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+8	драпировке	драпировка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+9	-	-	PUNCT	_	_	_	_	_	_
+10	это	это	PRON	_	_	_	_	_	_
+11	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	картина	картина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+13	с	с	ADP	_	_	_	_	_	_
+14	ангелочками	ангелочек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	_	_	_	_
+16	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+17	что	что	SCONJ	_	_	_	_	_	_
+18	тут	тут	ADV	_	Degree=Pos	_	_	_	_
+19	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+20	на	на	ADP	_	_	_	_	_	_
+21	которой	который	PRON	_	Case=Gen	_	_	_	_
+22	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+23	много	много	ADV	_	Degree=Pos	_	_	_	_
+24	одежды	одежда	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 21
+# text = Хорошо, тогда [нрзб]
+1	Хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+4	[нрзб]	[нрзб]	X	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 23
+# text = Да, замечательно, вот, осталась у меня последняя картина, это именно
+1	Да	да	PART	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	замечательно	замечательно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	_	_	_	_
+5	вот	вот	PART	_	_	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	у	у	ADP	_	_	_	_	_	_
+9	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+10	последняя	последний	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+11	картина	картина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+14	именно	именно	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 25
+# text = И это озеро!
+1	И	и	CCONJ	_	_	_	_	_	_
+2	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+3	озеро	озеро	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+4	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 27
+# text = Нет, это портрет девушки Это пор...
+1	Нет	нет	PART	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+4	портрет	портрет	NOUN	_	Animacy=Inam|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+6	Это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+7	пор	портрет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 29
+# text = половина лица девушки
+1	половина	половина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+3	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 31
+# text = Мм..
+1	Мм	мм	INTJ_  _	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 33
+# text = можете описать поподробнее
+1	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	описать	описать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	_
+3	поподробнее	подробно	ADV	_	Degree=Cmp2	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 35
+# text = Хорошо.
+1	Хорошо	хорошо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 37
+# text = Тут какой-то однотонный фон а-а плечо девушки, понятно, что это девушка, потому что..
+1	Тут	тут	ADV	_	Degree=Pos	_	_	_	_
+2	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+3	однотонный	однотонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+4	фон	фон	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+5	а	а	INTJ	_		_	_	_	SpaceAfter=No
+6	-	-	PUNCT	_	_	_	_	_	SpaceAfter=No
+7	а	а	INTJ	_	_	_	_	_	_
+8	плечо	плечо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+9	девушки	девушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	понятно	понятно	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	что	что	SCONJ	_	_	_	_	_	_
+14	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+15	девушка	девушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	_	_	_	_
+17	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+18	что	что	SCONJ	_	_	_	_	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 39
+# text = ну, по фигуре понятно.
+1	ну	ну	PART	_	_	_	_	_	SpaceAfter=No
+2	,	,	PUNCT	_	_	_	_	_	_
+3	по	по	ADP	_	_	_	_	_	_
+4	фигуре	фигура	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+5	понятно	понятно	VERB	_	Degree=Pos|Tense=Pres_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 41
+# text = Она в блузке в какой-то светлой.
+1	Она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	блузке	блузка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	какой-то	какой-то	DET	_	Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+6	светлой	светлый	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = !43
+# text = И-и...
+1	И-и	И-и	CCONJ	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 45
+# text = красивая сережка.
+1	красивая	красивый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+2	сережка	сережка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 47
+# text = Волосы..
+1	Волосы	волос	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	_	_	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 49
+# text = собраны в пучок.
+1	собраны	собрать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	пучок	пучок	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+aaa@
+
+# sent_id = 51
+# text = Не знаю, как еще это описать, у меня нет лица, у меня только ухо
+1	Не	не	PART	_	_	_	_	_	_
+2	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	_	_	_	_
+4	как	как	ADV	_	Degree=Pos	_	_	_	_
+5	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+6	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+7	описать	описать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	_	_	_	_
+9	у	у	ADP	_	_	_	_	_	_
+10	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+11	нет	нет	VERB	_	!Degree=Pos|!Tense=Pres	_	_	_	_
+12	лица	лицо	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	_	_	_	_
+14	у	у	ADP	_	_	_	_	_	_
+15	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+16	только	только	PART	_	_	_	_	_	_
+17	ухо	ухо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+euv@
+
+# sent_id = 53
+# text = У меня что-то совершенно другое.
+1	У	у	ADP	_	_	_	_	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	_	_	_	_
+3	что-то	что-то	PRON	_	Case=Nom	_	_	_	_
+4	совершенно	совершенно	ADV	_	Degree=Pos	_	_	_	_
+5	другое	другой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+euv
+
