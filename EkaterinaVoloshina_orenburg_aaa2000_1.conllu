@@ -271,7 +271,7 @@ aaa@
 134	потому	потому	ADV	_	Degree=Pos	_	_	_	_
 135	что	что	SCONJ	_	_	_	_	_	_
 136	боялась	бояться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
-137	что	что	PRON	_	Case=Acc	_	_	_	_
+137	что	что	SCONJ	_	_	_	_	_
 138	еще	еще	ADV	_	Degree=Pos	_	_	_	_
 139	что-нибудь	что-нибудь	PRON	_	Case=Acc	_	_	_	_
 140	на	на	ADP	_	_	_	_	_	_
