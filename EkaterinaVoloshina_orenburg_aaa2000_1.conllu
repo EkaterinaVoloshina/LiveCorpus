@@ -1,0 +1,281 @@
+# time_begin = 02:14
+
+aaa@
+
+# sent_id = 3
+# text = На / наверное / лет / семь мне подарили настоящий двухколесный велосипед / не какой-то трехколесный который был у всех во дворе
+1	На	на	ADP	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	наверное	наверное	ADV	_	Degree=Pos	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	семь	семь	NUM	_	Case=Acc	_	_	_	_
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+9	подарили	подарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+10	настоящий	настоящий	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+11	двухколесный	двухколесный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+12	велосипед	велосипед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	не	не	PART	_	_	_	_	_	_
+15	какой-то	какой-то	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+16	трехколесный	трехколесный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+17	который	который	PRON	_	Case=Nom	_	_	_	_
+18	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+19	у	у	ADP	_	_	_	_	_	_
+20	всех	все	PRON	_	Animacy=Anim|Case=Gen|Number=Plur	_	_	_	_
+21	во	в	ADP	_	_	_	_	_	_
+22	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+aaa@
+
+# sent_id = 5
+# text = эээ / поехала я на нем естественно не сразу
+1	эээ	эээ	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	поехала	поехать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+5	на	на	ADP	_	_	_	_	_	_
+6	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+7	естественно	естественно	ADV	_	Degree=Pos	_	_	_	_
+8	не	не	PART	_	_	_	_	_	_
+9	сразу	сразу	ADV	_	Degree=Pos	_	_	_	SpacesAfter=\r\n\r\n
+
+aaa@
+
+# sent_id = 7
+# text = папа мне несколько раз помогал подталкивал / но когда я поехала / я просто унеслась в даль / не думая ни о чем / и где-то посередине пути / подумала о том что я не знаю как тормозить / вот
+1	папа	папа	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+3	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	_	_	_	_
+4	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+5	помогал	помогать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	подталкивал	подталкивать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	но	но	CCONJ	_	_	_	_	_	_
+9	когда	когда	SCONJ	_	_	_	_	_	_
+10	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+11	поехала	поехать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+14	просто	просто	PART	_	_	_	_	_	_
+15	унеслась	унесться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+16	в	в	ADP	_	_	_	_	_	_
+17	даль	даль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	не	не	PART	_	_	_	_	_	_
+20	думая	думать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+21	ни	ни	PART	_	_	_	_	_	_
+22	о	о	ADP	_	_	_	_	_	_
+23	чем	что	PRON	_	Case=Loc	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	и	и	CCONJ	_	_	_	_	_	_
+26	где-то	где-то	ADV	_	Degree=Pos	_	_	_	_
+27	посередине	посередине	ADP	_	_	_	_	_
+28	пути	путь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+29	/	/	PUNCT	_	_	_	_	_	_
+30	подумала	подумать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	о	о	ADP	_	_	_	_	_	_
+32	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+33	что	что	SCONJ	_	_	_	_	_	_
+34	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+35	не	не	PART	_	_	_	_	_	_
+36	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+37	как	как	ADV	_	Degree=Pos	_	_	_	_
+38	тормозить	тормозить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+39	/	/	PUNCT	_	_	_	_	_	_
+40	вот	вот	PART	_	_	_	_	_	SpacesAfter=\r\n\r\n
+
+aaa@
+
+# sent_id = 9
+# text = Ааа / возле нашего дома / был сквер / с-c яблонями каким-то там кустарником / ну в общем затормозила я / въехав в кустарник
+1	Ааа	Аа	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	возле	возле	ADP	_	_	_	_	_	_
+4	нашего	наш	DET	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+5	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+8	сквер	сквер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	с-c	с-c	ADP	_	_	_	_	_	_
+11	яблонями	яблоня	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	_	_	_	_
+12	каким-то	какой-то	DET	_	Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+13	там	там	ADV	_	Degree=Pos	_	_	_	_
+14	кустарником	кустарник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+15	/	/	PUNCT	_	_	_	_	_	_
+16	ну	ну	PART	_	_	_	_	_	_
+17	в	в	ADP	_	_	_	_	_	_
+18	общем	общий	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+19	затормозила	затормозить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	въехав	въехать	VERB	_	Aspect=Perf|Tense=Past|VerbForm=Conv|Voice=Act	_	_	_	_
+23	в	в	ADP	_	_	_	_	_	_
+24	кустарник	кустарник	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+aaa@
+
+# sent_id = 11
+# text = естественно / содраны колени / локти / просто вся в крови
+1	естественно	естественно	ADV	_	Degree=Pos	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	содраны	содрать	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+4	колени	колено	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	локти	локоть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	просто	просто	PART	_	_	_	_	_	_
+9	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+10	в	в	ADP	_	_	_	_	_	_
+11	крови	кровь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+
+aaa@
+
+# sent_id = 13
+# text = но / мне было все равно / что со мной происходит / потому что я ободрала сидение от велосипеда / это было главной трагедией / мне его только подарили / я сразу что-то в нём испортила а еще у него слетела цепь / и вот сижу я / посередине сквера / вся в крови / зареванная / со сломанным велосипедом и мимо проходит милиционер / как в истории про Дядю Степу спрашивает / вот что ты плачешь / девочка / что с тобой случилось / я ему рассказываю / со всхлипами / грустную историю / о том как мне подарили велосипед и тут / я его сломала / но он сказал чтобы я не расстраивалась / наладил мне цепь / и до дома я уже шла пешком / держа в руках велосипед / потому что боялась что еще что-нибудь на нем сломаю
+1	но	но	CCONJ	_	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	равно	равно	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	что	что	SCONJ	_	_	_	_	_	_
+9	со	с	ADP	_	_	_	_	_	_
+10	мной	я	PRON	_	Case=Ins|Number=Sing|Person=1	_	_	_	_
+11	происходит	происходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+12	/	/	PUNCT	_	_	_	_	_	_
+13	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+14	что	что	SCONJ	_	_	_	_	_	_
+15	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+16	ободрала	ободрать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+17	сидение	сидение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+18	от	от	ADP	_	_	_	_	_	_
+19	велосипеда	велосипед	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+20	/	/	PUNCT	_	_	_	_	_	_
+21	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+22	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	главной	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+24	трагедией	трагедия	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+27	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+28	только	только	PART	_	_	_	_	_	_
+29	подарили	подарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+32	сразу	сразу	ADV	_	Degree=Pos	_	_	_	_
+33	что-то	что-то	PRON	_	Case=Acc	_	_	_	_
+34	в	в	ADP	_	_	_	_	_	_
+35	нём	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+36	испортила	испортить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+37	а	а	CCONJ	_	_	_	_	_	_
+38	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+39	у	у	ADP	_	_	_	_	_	_
+40	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+41	слетела	слететь	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+42	цепь	цепь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+43	/	/	PUNCT	_	_	_	_	_	_
+44	и	и	CCONJ	_	_	_	_	_	_
+45	вот	вот	PART	_	_	_	_	_	_
+46	сижу	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+47	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+48	/	/	PUNCT	_	_	_	_	_	_
+49	посередине	посередине	ADP	_ _	_	_	_
+50	сквера	сквер	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+51	/	/	PUNCT	_	_	_	_	_	_
+52	вся	весь	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+53	в	в	ADP	_	_	_	_	_	_
+54	крови	кровь	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+55	/	/	PUNCT	_	_	_	_	_	_
+56	зареванная	зареветь	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+57	/	/	PUNCT	_	_	_	_	_	_
+58	со	с	ADP	_	_	_	_	_	_
+59	сломанным	сломать	VERB	_	Aspect=Perf|Case=Ins|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+60	велосипедом	велосипедом	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+61	и	и	CCONJ	_	_	_	_	_	_
+62	мимо	мимо	ADV	_	Degree=Pos	_	_	_	_
+63	проходит	проходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+64	милиционер	милиционер	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+65	/	/	PUNCT	_	_	_	_	_	_
+66	как	как	SCONJ	_	_	_	_	_	_
+67	в	в	ADP	_	_	_	_	_	_
+68	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+69	про	про	ADP	_	_	_	_	_	_
+70	Дядю	дядь	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+71	Степу	Степа	PROPN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+72	спрашивает	спрашивать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+73	/	/	PUNCT	_	_	_	_	_	_
+74	вот	вот	PART	_	_	_	_	_	_
+75	что	что	PRON	_	Case=Acc	_	_	_	_
+76	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+77	плачешь	плакать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+78	/	/	PUNCT	_	_	_	_	_	_
+79	девочка	девочка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+80	/	/	PUNCT	_	_	_	_	_	_
+81	что	что	PRON	_	Case=Nom	_	_	_	_
+82	с	с	ADP	_	_	_	_	_	_
+83	тобой	ты	PRON	_	Case=Ins|Number=Sing|Person=2	_	_	_	_
+84	случилось	случиться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+85	/	/	PUNCT	_	_	_	_	_	_
+86	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+87	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+88	рассказываю	рассказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+89	/	/	PUNCT	_	_	_	_	_	_
+90	со	с	ADP	_	_	_	_	_	_
+91	всхлипами	всхлип	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+92	/	/	PUNCT	_	_	_	_	_	_
+93	грустную	грустный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+94	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+95	/	/	PUNCT	_	_	_	_	_	_
+96	о	о	ADP	_	_	_	_	_	_
+97	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+98	как	как	SCONJ	_	_	_	_	_	_
+99	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+100	подарили	подарить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+101	велосипед	велосипед	ADV	_	Degree=Pos	_	_	_	_
+102	и	и	CCONJ	_	_	_	_	_	_
+103	тут	тут	ADV	_	Degree=Pos	_	_	_	_
+104	/	/	PUNCT	_	_	_	_	_	_
+105	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+106	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+107	сломала	сломать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+108	/	/	PUNCT	_	_	_	_	_	_
+109	но	но	CCONJ	_	_	_	_	_	_
+110	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+111	сказал	сказать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+112	чтобы	чтобы	SCONJ	_	Mood=Cnd	_	_	_	_
+113	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+114	не	не	PART	_	_	_	_	_	_
+115	расстраивалась	расстраиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+116	/	/	PUNCT	_	_	_	_	_	_
+117	наладил	наладить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+118	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+119	цепь	цепь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+120	/	/	PUNCT	_	_	_	_	_	_
+121	и	и	CCONJ	_	_	_	_	_	_
+122	до	до	ADP	_	_	_	_	_	_
+123	дома	дом	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+124	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+125	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+126	шла	идти	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+127	пешком	пешком	ADV	_	Degree=Pos	_	_	_	_
+128	/	/	PUNCT	_	_	_	_	_	_
+129	держа	держать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+130	в	в	ADP	_	_	_	_	_	_
+131	руках	рука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Plur	_	_	_	_
+132	велосипед	велосипед	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+133	/	/	PUNCT	_	_	_	_	_	_
+134	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+135	что	что	SCONJ	_	_	_	_	_	_
+136	боялась	бояться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+137	что	что	PRON	_	Case=Acc	_	_	_	_
+138	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+139	что-нибудь	что-нибудь	PRON	_	Case=Acc	_	_	_	_
+140	на	на	ADP	_	_	_	_	_	_
+141	нем	он	PRON	_	Case=Loc|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+142	сломаю	сломать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\r\n\r\n
+
+
